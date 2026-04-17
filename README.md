@@ -85,23 +85,8 @@ Returns top platforms by aggregated global sales from the dataset.
 Returns top recommended games for the selected platform based on global sales.
 
 ## Screenshots
+<img width="1179" height="1043" alt="Screenshot 2026-04-17 215936" src="https://github.com/user-attachments/assets/604a1d03-8089-465c-8f27-afb864f4f9fb" />
 
-Add your project screenshots here after capturing the dashboard.
-
-Suggested images:
-
-- Main dashboard home/header
-- Prediction tab
-- Analytics tab with charts
-- Recommender tab
-- History tab
-
-Example section:
-
-```md
-![Prediction Tab](./screenshots/prediction-tab.png)
-![Analytics Tab](./screenshots/analytics-tab.png)
-```
 
 ## How To Run Locally
 
