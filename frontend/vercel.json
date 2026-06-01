@@ -3,7 +3,7 @@
   "rewrites": [
     {
       "source": "/api/:path*",
-      "destination": "https://YOUR-RENDER-URL.onrender.com/:path*"
+      "destination": "https://video-games-sales-intelligence.onrender.com/:path*"
     }
   ]
 }
