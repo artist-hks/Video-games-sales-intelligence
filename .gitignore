@@ -1,0 +1,35 @@
+# Dependencies
+node_modules/
+frontend/node_modules/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
+
+# Models (generated)
+models/*.pkl
+
+# Environment
+.env
+.dev.vars
+
+# Build
+dist/
+frontend/dist/
+
+# PM2
+.pm2/
+pids/
+logs/
+*.log
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
