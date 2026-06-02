@@ -4,6 +4,10 @@
 
 # 🎮 Video Games Sales Intelligence
 
+## Live Demo
+- **Frontend**: Hosted on Vercel (Production) - [vgsi.vercel.app](https://vgsi.vercel.app)
+- **Backend API**: Hosted on Render (`https://video-games-sales-intelligence.onrender.com/`)
+
 ### A full-stack gaming analytics dashboard — predict, explore, and discover video game sales data
 
 [![React](https://img.shields.io/badge/React-18.3-61DAFB?style=flat-square&logo=react&logoColor=black)](https://react.dev/)
